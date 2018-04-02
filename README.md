@@ -14,7 +14,7 @@ The thing you should have before working with Appium.
 
 2- Eclipse
 
-3- Selenium WebDriver Jar –  Above 3 can be done through this link.
+3- Selenium WebDriver Jar 
 
 4- Appium Java Client
 
